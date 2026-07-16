@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
 ## Counting
