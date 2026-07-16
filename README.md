@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -61,4 +63,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
