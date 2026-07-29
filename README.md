@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
