@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
