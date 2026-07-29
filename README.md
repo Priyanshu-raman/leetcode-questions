@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -82,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
