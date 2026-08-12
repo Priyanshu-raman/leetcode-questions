@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -248,17 +249,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
