@@ -1,33 +1,21 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int lastFruit = -1;
-        int secondLastFruit = -1;
-        int lastFruitStreak = 0;
-        int currentWindow = 0;
-        int maxFruits = 0;
-
-        for (int fruit : fruits) {
-            // If the fruit matches either of our 2 active types
-            if (fruit == lastFruit || fruit == secondLastFruit) {
-                currentWindow++;
-            } else {
-                // New 3rd fruit type encountered:
-                // Shrink window to only keep the last continuous streak + 1 current fruit
-                currentWindow = lastFruitStreak + 1;
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int i=0;
+        int j=0;
+        int max =0;
+        while(j<fruits.length){
+            map.put(fruits[j],map.getOrDefault(fruits[j],0)+1);
+            j++;
+            while(map.size()>2){
+                map.put(fruits[i],map.get(fruits[i])-1);
+                if(map.get(fruits[i])==0){
+                    map.remove(fruits[i]);
+                }
+                i++;
             }
-
-            // Update streak count for the most recent fruit
-            if (fruit == lastFruit) {
-                lastFruitStreak++;
-            } else {
-                lastFruitStreak = 1;
-                secondLastFruit = lastFruit;
-                lastFruit = fruit;
-            }
-
-            maxFruits = Math.max(maxFruits, currentWindow);
+            max=Math.max(max,j-i);
         }
-
-        return maxFruits;
+        return max;
     }
 }
