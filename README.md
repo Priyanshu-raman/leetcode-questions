@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
