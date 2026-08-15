@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0509-fibonacci-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
