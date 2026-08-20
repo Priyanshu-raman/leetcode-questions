@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0344-reverse-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
