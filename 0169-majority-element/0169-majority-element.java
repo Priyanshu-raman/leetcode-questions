@@ -14,9 +14,29 @@ class Solution {
     //     }
     //    }
     //    return can;
-    Arrays.sort(nums);
-    int p=nums.length/2;
-    return nums[p];
+
+
+
+
+    // Arrays.sort(nums);
+    // int p=nums.length/2;
+    // return nums[p];
     
+
+
+    int c=0;
+    int can=0;
+    for(int no:nums){
+        if(c==0){
+            can=no;
+        }
+        if(no==can){
+            c++;
+        }
+        else{
+            c--;
+        }
+    }
+    return can;
     }
 }
