@@ -11,10 +11,12 @@ class Solution {
                 i++;
                 max=Math.max(max,height[i]);
                 sum+=max-height[i];
+               
             }else{
                 j--;
                 f=Math.max(f,height[j]);
                 sum+=f-height[j];
+                
             }
         }
         return sum;
