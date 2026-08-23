@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -361,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
