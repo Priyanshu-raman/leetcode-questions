@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
