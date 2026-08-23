@@ -8,22 +8,23 @@ class Solution {
         int p = 1; 
         int i = 1;
         while (i < nums.length) {
-            if (nums[i] == nums[i - 1] + 1) {
-                c++;
-            } else if (nums[i] != nums[i - 1]) {
-                c = 1; 
-            }
-            p = Math.max(p, c); 
-            i++;
-            // if(nums[i]==nums[i-1]+1){
+            // if (nums[i] == nums[i - 1] + 1) {
             //     c++;
+            // } else if (nums[i] != nums[i - 1]) {
+            //     c = 1; 
             // }
-            // else if(nums[i]!=nums[i-1]+1){
-            //     c=1;
-            // }
-            // else if(nums[i]==nums[i-1]) continue;
-            // p=Math.max(p,c);
+            // p = Math.max(p, c); 
             // i++;
+            if(nums[i]!=nums[i-1]){
+                if(nums[i]==nums[i-1]+1){
+                c++;
+            }else{
+                c=1;
+            }
+            }
+            
+            p=Math.max(p,c);
+            i++;
         }
         
         return p;
