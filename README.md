@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
