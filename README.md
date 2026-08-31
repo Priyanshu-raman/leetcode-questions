@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
