@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3731-find-missing-elements) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
