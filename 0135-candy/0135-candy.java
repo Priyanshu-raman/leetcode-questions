@@ -19,50 +19,5 @@ class Solution {
         }
 
         return total;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // int c=0;
-        // if(rat[0]>rat[1]){
-        //     c+=2;
-        // }else{
-        //     c++;
-        // }
-        // int i=1;
-        // while(i<rat.length-1){
-        //     if(rat[i]>rat[i-1] && rat[i]>rat[i+1]){
-        //         c++;
-        //     }
-        //     if(rat[i]>rat[i-1] || rat[i]>rat[i+1]){
-        //         c+=2;
-        //     }
-        //     else{
-        //         c++;
-        //     }
-
-        //     i++;
-        // }
-        // if(rat[rat.length-1]>rat[rat.length-2]){
-        //     c+=2;
-        // }else{
-        //     c++;
-        // }
-        // return c;
-
-
-
     }
 }
