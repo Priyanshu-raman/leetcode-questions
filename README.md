@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2029-stone-game-ix) |
