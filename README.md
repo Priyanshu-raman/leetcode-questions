@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
 |  |
