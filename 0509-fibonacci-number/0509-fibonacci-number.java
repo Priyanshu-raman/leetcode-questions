@@ -1,15 +1,7 @@
 class Solution {
     public int fib(int n) {
-    //    int p=fib(n-1);
-    //    int s=fib(n-2);
-    //    return p+s;
-    int q=0;
-    int w=1;
-    for(int i=0;i<n;i++){
-        int c=q+w;
-        q=w;
-        w=c;
-    }
-    return q;
+        if(n==1) return 1;
+        if(n==0) return 0;
+        return fib(n-1)+fib(n-2);
     }
 }
