@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0055-jump-game) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0085-maximal-rectangle) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
