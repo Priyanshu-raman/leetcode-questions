@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
