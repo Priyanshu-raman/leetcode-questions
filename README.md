@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
