@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
