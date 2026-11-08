@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0541-reverse-string-ii) |
