@@ -609,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -634,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
