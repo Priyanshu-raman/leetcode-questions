@@ -1,32 +1,39 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        int sum =0;
-        if(nums== null || nums.length <3) return result;
         Arrays.sort(nums);
-        for(int i=0;i<nums.length-2;i++){
-            if(i>0 && nums[i] == nums[i-1]) continue;
-            int j=nums.length-1;
-            int k=i+1;
-            while(k<j){
-                sum =nums[i]+nums[j]+nums[k];
-                if(sum ==0){
-                    result.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    k++;
-                    j--;
-                    while(k<j && nums[k]==nums[k-1]){
-                        k++;
-                    }
-                    while(k<j && nums[j]==nums[j+1]){
-                        j--;
-                    }
+        int n = nums.length;
+        
+        for (int i = 0; i < n - 2; i++) {
+            // Early exit: if smallest element > 0, sum can't be 0
+            if (nums[i] > 0) break;
+            
+            // Skip duplicate fixed elements
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            
+            int left = i + 1;
+            int right = n - 1;
+            
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+                
+                if (sum == 0) {
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    
+                    // Skip duplicates for left and right pointers
+                    while (left < right && nums[left] == nums[left + 1]) left++;
+                    while (left < right && nums[right] == nums[right - 1]) right--;
+                    
+                    left++;
+                    right--;
+                } else if (sum < 0) {
+                    left++;
+                } else {
+                    right--;
                 }
-                else if(sum>0){
-                    j--;
-                }
-                else k++; 
             }
         }
+        
         return result;
     }
 }
