@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1140-stone-game-ii) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
@@ -655,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
