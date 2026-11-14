@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0507-perfect-number) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
