@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0836-rectangle-overlap) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
