@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -670,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
