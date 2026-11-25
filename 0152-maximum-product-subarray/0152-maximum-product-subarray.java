@@ -14,7 +14,5 @@ class Solution {
             gmax=Math.max(gmax,cmax);
         }
         return gmax;
-        
     }
 }
-
