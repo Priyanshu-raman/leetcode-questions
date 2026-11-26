@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1927-sum-game) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
