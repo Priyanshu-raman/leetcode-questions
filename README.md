@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0223-rectangle-area) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
