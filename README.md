@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0835-image-overlap) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Priyanshu-raman/leetcode-questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
